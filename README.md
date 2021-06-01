@@ -1,2 +1,1 @@
-## BOJ (Baekjoon Online Judge) 
-### 파이썬으로 문제 풀기 
+## BOJ (Baekjoon Online Judge) 파이썬 (Python) 으로 문제 풀기 
